@@ -1,6 +1,6 @@
 # 基于混合整数线性规划的学校课表优化安排模型
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
 
 本项目旨在使用混合整数线性规划(MILP)方法优化中学课程表安排，以最小化学生疲劳度为目标，同时满足多种教学约束。
 
