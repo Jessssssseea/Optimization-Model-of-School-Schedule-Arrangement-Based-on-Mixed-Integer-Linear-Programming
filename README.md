@@ -25,6 +25,10 @@ pip install pandas==2.0.3
 pip install numpy==1.24.4
 pip install scipy==1.10.1
 ```
+或者
+```bash
+pip install -r requirements.txt
+```
 
 ### 使用步骤
 
@@ -33,11 +37,12 @@ pip install scipy==1.10.1
    ```bash
    python count.py
    ```
-3. 运行课表优化：
+3. 按需更改`arrange.py`中的数据
+4. 运行课表优化：
    ```bash
    python arrange.py
    ```
-4. 查看结果（生成`课表安排.txt`）
+5. 查看结果（生成`课表安排.txt`）
 
 ## 文件说明
 
@@ -79,8 +84,8 @@ pip install scipy==1.10.1
 
 ## 许可证
 
-本项目采用MIT许可证 - 详见[[LICENSE.md](https://github.com/Jessssssseea/Optimization-Model-of-School-Schedule-Arrangement-Based-on-Mixed-Integer-Linear-Programming/blob/main/LICENSE.md)]文件
+本项目采用MIT许可证 - 详见[LICENSE.md](https://github.com/Jessssssseea/Optimization-Model-of-School-Schedule-Arrangement-Based-on-Mixed-Integer-Linear-Programming/blob/main/LICENSE.md)文件
 
 ## 致谢
 
-感谢指导教师杨一慧和黄纯洁的指导。
+感谢指导教师杨一慧老师和黄纯洁老师的指导！
